@@ -13,7 +13,7 @@ Pratiquer une veille technologique sur la sécurité informatique et les vulnér
 d’accès se fonde sur les mécanismes de sécurité du SGBD. Pour cela, j’ai utilisé des bibliothèques d'objets existante ainsi que des composants dans un langage objet, avec un style de programmation défensif.
 
 2. Les moyens utilisés :
-Visualstudiocode, PHP, Javascript, JQuery,
+Visualstudiocode, PHP, Javascript, JQuery, PhpMyAdmin et MySQL
    
 4. Avec qui avez-vous travaillé ?
 Il s’agit d’un travail individuel dans le cadre de formation, toutefois le partage du résultat et de recherche et de veille ont été effectués oralement pendant une revue de code.
