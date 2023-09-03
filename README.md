@@ -1,6 +1,7 @@
 # Projet-liste-de-stagiaire
 Développer les composant d’accès aux données
 
+Le projet a été réaliser sur serveur local sous Wamp64
 Importer le fichier formation.sql afin récuperer la base de donnée existante
 
 1. Les tâches ou opérations que j'ai effectué, et dans quelles conditions :
