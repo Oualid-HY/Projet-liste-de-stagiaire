@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    font-family: 'Monoton', cursive;
+}
+
+label {
+    width: 100px;
+}
+
+#monid {
+    width: 100px;
+    margin: auto;
+    color: tomato;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.montableau {
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+}
+
+th {
+    background-color: rgba(245, 175, 26, 0.993);
+    border-right: 1px solid rgb(29, 28, 28);
+    color: white;
+    text-align: center;
+}
+
+td {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#montdajout{
+    background-color: rgb(17, 24, 24);
+    text-align: center;
+}
+
+.colid {
+    text-align: center;
+}
+
+.colsuppr {
+    text-align: center;
+}
+
+.tderreur{
+    width: 40%;
+}
+
+.erreur{
+    color: red;
+}
